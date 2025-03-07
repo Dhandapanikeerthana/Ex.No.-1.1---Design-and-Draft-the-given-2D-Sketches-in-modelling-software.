@@ -1,4 +1,4 @@
-# DATE:
+# DATE:05.03.2025
 # REG NO: 212224040155
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
